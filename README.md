@@ -36,7 +36,7 @@ This is a web based application developed for health related website.
 ## Posts-
 
 ![image](https://user-images.githubusercontent.com/118524806/203727734-a846b18a-ca5b-41a6-93a6-61cb293250df.png)
-![image](https://user-images.githubusercontent.com/118524806/203727851-4dfbddd5-e2c2-4345-aef8-e381e79c8729.png)
+![image](https://user-images.githubusercontent.com/118524806/203728445-c6cbe44e-0526-48a6-bb66-f29aaba31209.png)
 ![image](https://user-images.githubusercontent.com/118524806/203727933-f057f6fb-1be9-4558-badd-1f1a4c12e891.png)
 
 ## Primary Azure Technology used-
