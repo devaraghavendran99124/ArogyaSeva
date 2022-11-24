@@ -1,1 +1,95 @@
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.cdc.gov/nutrition/resources-publications/pdfs/Healthy_Eating_Benefits_Adult_April2021_H.pdf"><img src="https://www.cdc.gov/nutrition/resources-publications/images/Healthy_Eating_Benefits_Adult_April2021_H.jpg" alt="Healthy Eating Benefits for Adults" title="APHN-PA-Nutrition_Benefits_graphics-v5"/></a></figure>
+<!-- /wp:image -->
 
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.cdc.gov/nutrition/resources-publications/pdfs/Healthy_Eating_Benefits_Child_April2021_H.pdf"><img src="https://www.cdc.gov/nutrition/resources-publications/images/Healthy_Eating_Benefits_Child_April2021_H.jpg" alt="Healthy Eating Benefits for Children" title=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>Benefits of Healthy Eating for Adults</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Picture of body identifying benefits of healthy eating for adults.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>May help you live longer</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Keeps skin, teeth, and eyes healthy</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Supports muscles</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Boosts immunity</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Strengthens bones</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Lowers risk of heart disease, type 2 diabetes, and some cancers</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Supports healthy pregnancies and breastfeeding</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Helps the digestive system function</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Helps achieve and maintain a healthy weight</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Benefits of Healthy Eating for Children</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Picture of body identifying benefits of healthy eating for children.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Keeps skin, teeth, and eyes healthy</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Supports muscles</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Helps achieve and maintain a healthy weight</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Strengthens bones</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Supports brain development</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Supports healthy growth</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Boosts immunity</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Helps the digestive system function</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
